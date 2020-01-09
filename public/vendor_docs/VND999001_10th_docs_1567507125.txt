@@ -1,0 +1,2 @@
+192.168.1.16:13000        UserID        mawadm                Administrator
+                          Password    Inf0tech#164        V@1$h@1
